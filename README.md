@@ -1,0 +1,2 @@
+# Gacha_template
+swiftでかくガチャ画面のテンプレートです
